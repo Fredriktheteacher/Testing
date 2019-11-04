@@ -1,0 +1,14 @@
+body{
+	background-color: lightgrey;
+}
+
+th, td{
+	text-align: left;
+	padding: 10px;
+}
+.stripe{
+	background-color: lightblue;
+}
+.nostripe{
+	background-color: white;
+}
